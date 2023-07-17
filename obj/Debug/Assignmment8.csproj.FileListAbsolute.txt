@@ -1,0 +1,8 @@
+C:\Users\moham\source\repos\Day6\Method\Assignmment8\Assignmment8\bin\Debug\Assignmment8.exe.config
+C:\Users\moham\source\repos\Day6\Method\Assignmment8\Assignmment8\bin\Debug\Assignmment8.exe
+C:\Users\moham\source\repos\Day6\Method\Assignmment8\Assignmment8\bin\Debug\Assignmment8.pdb
+C:\Users\moham\source\repos\Day6\Method\Assignmment8\Assignmment8\obj\Debug\Assignmment8.csproj.AssemblyReference.cache
+C:\Users\moham\source\repos\Day6\Method\Assignmment8\Assignmment8\obj\Debug\Assignmment8.csproj.SuggestedBindingRedirects.cache
+C:\Users\moham\source\repos\Day6\Method\Assignmment8\Assignmment8\obj\Debug\Assignmment8.csproj.CoreCompileInputs.cache
+C:\Users\moham\source\repos\Day6\Method\Assignmment8\Assignmment8\obj\Debug\Assignmment8.exe
+C:\Users\moham\source\repos\Day6\Method\Assignmment8\Assignmment8\obj\Debug\Assignmment8.pdb
